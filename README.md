@@ -16,8 +16,8 @@ Manage tasks with add/complete/delete actions .
 ## 🧰 Tech Stack
 
 - React (functional components + hooks)
-- Redux (classic) with:
 
+Redux (classic) with:
 - createStore for store configuration
 - dispatch for triggering actions
 - useSelector and useDispatch hooks for connecting components to the store
